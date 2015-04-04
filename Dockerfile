@@ -1,4 +1,4 @@
-FROM perl:5.20.1
+FROM perl:5.20.2
 MAINTAINER Meredith Howard mhoward@roomag.org
 
 # This is a dead-simple container adding Carton to the official perl build,
